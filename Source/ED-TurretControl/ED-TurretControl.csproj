@@ -31,12 +31,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\lib\A14.1234\Assembly-CSharp.dll</HintPath>
-      <Private>False</Private>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\lib\A16\Harmony\0Harmony.dll</HintPath>
     </Reference>
-    <Reference Include="Community Core Library">
-      <HintPath>..\..\..\..\lib\CCL 0.14.1\Community Core Library.dll</HintPath>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\..\..\lib\A16\A16.1393\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -46,13 +45,12 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\..\lib\A14.1234\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\lib\A16\A16.1393\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ED-TurretControl\DetourInjector.cs" />
-    <Compile Include="ED-TurretControl\Detours\_Building_TurretGun.cs" />
+    <Compile Include="ED-TurretControl\Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
