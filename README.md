@@ -1,4 +1,4 @@
-# ED-Mod
+# ED-TurretControl
 This is the Readme for the Enhanced Devemopment Mod, ED-TurretControl, for the Game Rimworld.
 
 Aditional details can be fount in About.xml
