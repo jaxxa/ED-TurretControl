@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>ED-TurretControl</name>
-	<targetVersion>0.14.1241</targetVersion>
+	<targetVersion>0.16.00</targetVersion>
 	<author>Jaxxa</author>
 	<url>https://ludeon.com/forums/index.php?topic=18995.0</url>
-	<description>Version: 01.00.00
-	
-	This mod Requires CCL to be installed.
-	https://ludeon.com/forums/index.php?topic=16599.0
-	
+	<description>Version: 02.00.00
+
 Discussion, Non Steam Downloads and GitHub Repositories of this mod is available at: https://ludeon.com/forums/index.php?topic=18995
 Please Use that Thread for Discussion / Feedback that would like me to reply to. 
 Ideally Bugs should be logged on GitHub although in the discussion thread is also fine.
+
+This mod used the Harmony Library. The .dll of the Library is included in the download, you do not need to install it separately.
+https://github.com/pardeike/Harmony
+https://ludeon.com/forums/index.php?topic=29517.0
 
 Allows Commands for Force Attack to be given to Turrets.
 	</description>
