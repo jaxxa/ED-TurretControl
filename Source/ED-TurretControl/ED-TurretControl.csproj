@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\..\lib\A16\Harmony\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\lib\Harmony\1.0.9\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\..\..\..\lib\A16\A16.1393\Assembly-CSharp.dll</HintPath>
