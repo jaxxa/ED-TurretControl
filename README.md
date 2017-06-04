@@ -1,3 +1,5 @@
+# As of A17 it looks like this is now vanilla functionality.
+
 # ED-TurretControl
 This is the Readme for the Enhanced Devemopment Mod, ED-TurretControl, for the Game Rimworld.
 
@@ -17,3 +19,4 @@ https://ludeon.com/forums/index.php?topic=29517.0
 
 02.00.01
 * Updating Harmony Version
+
