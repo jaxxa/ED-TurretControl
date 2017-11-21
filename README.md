@@ -20,3 +20,6 @@ https://ludeon.com/forums/index.php?topic=29517.0
 02.00.01
 * Updating Harmony Version
 
+0.18.0.0
+* Beta 18 Update
+
