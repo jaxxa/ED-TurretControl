@@ -3,10 +3,9 @@
 	<name>ED-TurretControl</name>
 	<targetVersion>0.18.0</targetVersion>
 	<author>Jaxxa</author>
-	<url>https://ludeon.com/forums/index.php?topic=18995.0</url>
+	<url>https://ludeon.com/forums/index.php?topic=37158</url>
 	<description>Version: 0.18.0.0
-
-Discussion, Non Steam Downloads and GitHub Repositories of this mod is available at: https://ludeon.com/forums/index.php?topic=18995
+Discussion, Non Steam Downloads of this mod is available at: https://ludeon.com/forums/index.php?topic=37158
 
 This mod used the Harmony Library. The .dll of the Library is included in the download, you do not need to install it separately.
 https://github.com/pardeike/Harmony
